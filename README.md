@@ -1,1 +1,1 @@
-# Convert Normal Form to CNF & DNF using Python
+# Convert Normal Form to CNF & DNF using Python 
